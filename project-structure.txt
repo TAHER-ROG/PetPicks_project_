@@ -1,0 +1,12 @@
+PetPicks_Project/
+|-- static/
+|   |-- css/
+|   |   `-- style.css
+|   |-- js/
+|   |   `-- script.js
+|-- templates/
+|   `-- index.html
+|-- venv/
+    `-- lib
+|-- app.py
+|-- model.h5
